@@ -1,4 +1,4 @@
-This is an article about dogs in semantic HTML.
+This is an article about dogs in semantic HTML. 
 
 What are Semantic Elements?
 A semantic element clearly describes its meaning to both the browser and the developer.
